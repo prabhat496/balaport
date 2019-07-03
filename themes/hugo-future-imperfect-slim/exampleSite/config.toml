@@ -1,4 +1,4 @@
-baseurl                 = "https://bala.netlify.com/"
+baseurl                 = "https://example.com/"
 DefaultContentLanguage  = "en"
 title                   = "Hugo Future Imperfect Slim"
 theme                   = "hugo-future-imperfect-slim"
