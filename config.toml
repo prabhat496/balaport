@@ -17,7 +17,7 @@ disableLanguages        = [""]
   cssFiles              = ["default"]
   jsFiles               = ["default"]
   # Sets options for highlight.js
-  highlightjs           = true
+  highlightjs           = false
   highlightjsTheme      = "github"
   highlightjsLang       = ["html", "css", "js", "toml"]
   # Sets where "View More Posts" links to
@@ -26,8 +26,8 @@ disableLanguages        = [""]
   readingTime           = true
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
-  socialShare           = ["twitter", "facebook", "linkedin",
-                          "telegram", "email"]
+  socialShare           = ["twitter", "facebook", "reddit", "linkedin",
+                          "pinterest", "email"]
 
   [params.meta]
     # Sets the meta tag description
@@ -46,7 +46,7 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Bala Connects"
+    navbarTitle         = "Bala"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
@@ -64,10 +64,10 @@ disableLanguages        = [""]
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/main/logo.jpg"
+      src                 = "/img/main/bala.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape               = "hexagon"
-      width               = ""
+      shape               = "circle"
+      width               = "100"
       alt                 = "Sonam Bala's face was here"
 
   [params.sidebar]
@@ -257,7 +257,7 @@ disableLanguages        = [""]
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github                = "prabhat496"
+  github                = ""
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -269,32 +269,32 @@ disableLanguages        = [""]
   behance               = ""
   dribbble              = ""
   #Publishing Communities
-  wordpress             = "rgs"
-  medium                = "sdfg"
+  wordpress             = "balaconnects"
+  medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = "example"
+  linkedin              = "sonam-bala-0b584114b"
   linkedin_company      = ""
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
   # Social Networks
-  facebook              = "example"
+  facebook              = "balaconnects"
   googleplus            = ""
   reddit                = ""
-  quora                 = "example"
-  youtube               = "example"
+  quora                 = "Sonam-Bala-2"
+  youtube               = ""
   vimeo                 = ""
-  whatsapp              = "9197634952" # WhatsApp Number
+  whatsapp              = "" # WhatsApp Number
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
-  instagram             = "example"
+  instagram             = "balaconnects"
   tumblr                = ""
-  twitter               = "example"
-  skype                 = "example"
+  twitter               = "BalaConnects"
+  skype                 = ""
   snapchat              = ""
   pinterest             = ""
-  telegram              = "example"
+  telegram              = "BalaConnects"
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
@@ -302,4 +302,4 @@ disableLanguages        = [""]
   keybase               = ""
   mastodon              = ""
   # Email
-  email                 = "example@example.com"
+  email                 = "mailsonamb@gmail.com"
