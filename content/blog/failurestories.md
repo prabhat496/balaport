@@ -25,4 +25,4 @@ Of course, I want epic successes. But only after effective failures. I may conti
 
 And as to what happened to my ambitions to be the God? Well... I just grew out of the theistic concept! Damn it.
 
-{{<instagram By-336mFief>}}
+{{<instagram BslwrkQgPQ3>}}
