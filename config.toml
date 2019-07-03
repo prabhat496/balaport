@@ -4,7 +4,7 @@ title                   = "Bala"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
-disqusShortname         = ""
+disqusShortname         = "disqus_5yi4cjuyZb"
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
@@ -31,7 +31,7 @@ disableLanguages        = [""]
 
   [params.meta]
     # Sets the meta tag description
-    description         = "A description of the website here"
+    description         = "Blog site of Sonam Bala"
     # Sets the meta tag author
     author              = "team-Bala"
     # If you would like to add more comprehensive favicon support passed root
@@ -57,7 +57,7 @@ disableLanguages        = [""]
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "Bala"
-    paragraph             = "In another world"
+    paragraph             = "Puddle. Poodle. Paddle. Poodle. Paidal."
     rssIntro              = false
     socialIntro           = true
 
@@ -66,8 +66,8 @@ disableLanguages        = [""]
     [params.intro.pic]
       src                 = "/img/main/bala.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape               = "circle"
-      width               = "100"
+      shape               = "hexagon"
+      width               = "120"
       alt                 = "Sonam Bala's face was here"
 
   [params.sidebar]
