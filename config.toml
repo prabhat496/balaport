@@ -1,6 +1,6 @@
 baseurl                 = "https://bala.netlify.com/"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "Bala"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
@@ -26,19 +26,19 @@ disableLanguages        = [""]
   readingTime           = true
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
-  socialShare           = ["twitter", "facebook", "reddit", "linkedin",
-                          "pinterest", "email"]
+  socialShare           = ["twitter", "facebook", "linkedin",
+                          "telegram", "email"]
 
   [params.meta]
     # Sets the meta tag description
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    description         = "A description of the website here"
     # Sets the meta tag author
-    author              = "HTML5UP and Hugo"
+    author              = "team-Bala"
     # If you would like to add more comprehensive favicon support passed root
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
     # for the theme's naming.
-    favicon             = false
+    favicon             = true
     svg                 = true
     faviconVersion      = "1"
     msColor             = "#ffffff" # Copy from the https://realfavicongenerator.net
@@ -46,19 +46,19 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Bala Connects"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
-    languageMenu        = true
+    languageMenu        = false
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
-    rssIntro              = true
+    header                = "Bala"
+    paragraph             = "In another world"
+    rssIntro              = false
     socialIntro           = true
 
     # This appears at the top of the sidebar above params.intro.header.
@@ -66,24 +66,24 @@ disableLanguages        = [""]
     [params.intro.pic]
       src                 = "/img/main/logo.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape               = "circle"
+      shape               = "hexagon"
       width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = "Sonam Bala's face was here"
 
   [params.sidebar]
-    about               = "test"
+    about               = "Write something about yourself in brief."
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    postAmount          = 5
+    postAmount          = 4
     # set to show or to hide categories in the sidebar
-    categories          = true
+    categories          = false
     # Sets Categories to sort by number of posts instead of alphabetical
     categoriesByCount   = true
 
   [params.footer]
     # Sets RSS icons to appear on the sidebar with the social media buttons
-    rssFooter           = true
+    rssFooter           = false
     # Sets Social Media icons to appear on the sidebar
-    socialFooter        = true
+    socialFooter        = false
 
   # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
   # due to its ease of use. Feel free to check out both and decide which you would
@@ -257,7 +257,7 @@ disableLanguages        = [""]
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "prabhat496"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -265,41 +265,41 @@ disableLanguages        = [""]
   codepen               = ""
   # Visual Art Communities
   deviantart            = ""
-  flickr                = "example"
+  flickr                = ""
   behance               = ""
   dribbble              = ""
-  # Publishing Communities
-  wordpress             = ""
-  medium                = ""
+  #Publishing Communities
+  wordpress             = "rgs"
+  medium                = "sdfg"
   # Professional/Business Oriented Communities
   linkedin              = "example"
-  linkedin_company      = "examplebusiness"
+  linkedin_company      = ""
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
   # Social Networks
   facebook              = "example"
   googleplus            = ""
-  reddit                = "example"
-  quora                 = ""
-  youtube               = ""
+  reddit                = ""
+  quora                 = "example"
+  youtube               = "example"
   vimeo                 = ""
-  whatsapp              = "" # WhatsApp Number
+  whatsapp              = "9197634952" # WhatsApp Number
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
   instagram             = "example"
   tumblr                = ""
   twitter               = "example"
-  skype                 = ""
+  skype                 = "example"
   snapchat              = ""
-  pinterest             = "example"
+  pinterest             = ""
   telegram              = "example"
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
-  mastodon              = "example.com/@example"
+  researchgate          = ""
+  keybase               = ""
+  mastodon              = ""
   # Email
-  email                 = "example"
+  email                 = "example@example.com"
