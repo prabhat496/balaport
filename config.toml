@@ -4,7 +4,7 @@ title                   = "Bala"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
-disqusShortname         = ""
+disqusShortname         = "disqus_5yi4cjuyZb"
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
@@ -90,7 +90,7 @@ disableLanguages        = [""]
   # prefer to use. See Staticman.yml for additional settings.
   [params.staticman]
     # Sets Statiman to be active
-    staticman           = true
+    staticman           = false
     # Sets the location for Staticman to connect to
     username            = "prabhat496"
     repo                = "balaport"
