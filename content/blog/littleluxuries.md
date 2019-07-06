@@ -4,12 +4,11 @@ categories = ""
 date = "2019-06-06"
 description = "Little luxuries of middle class family."
 featured = "pic06.jpg"
-featuredalt = "Papa from back"
+featuredalt = "The family"
 featuredpath = "date"
 linktitle = ""
 title = "Budgeting"
 type = "post"
-
 +++
 
 I belong to a middle class family - our dreams are usually driven by a budget marked with upgraded eras. We got a black and white television in the early 90s - invitations to a community binge watch session for Ramayana on Sundays were a thing then. Then we got a scooter somewhere in the late 90s and finally, my family could travel together on the two wheeler adjusting babies in between my parents. Upgradation to a color television, a refrigerator, or even a miniscule mixer grinder were made in between the late 00s. I remember each occasion when we welcomed something esteemed to be luxurious - remarkably, they'd all be done during festivals which granted bonus from my father's employer. But all the happiness wasn't owed to budgets only.

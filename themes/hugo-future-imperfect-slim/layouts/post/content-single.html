@@ -9,6 +9,7 @@
 
   <div class="content">
   <img src="/img/{{ if eq .Params.featuredpath "date" }}{{ .Page.Date.Format "2006/01" }}/{{ else }}{{ .Params.featuredpath }}{{ end }}{{ .Params.featured }}" alt="{{ .Params.featuredalt }}" align="left" hspace="50" vspace ="20">
+  
     {{ .Content }}
   </div>
   <footer>
